@@ -1,3 +1,3 @@
-var hello = oi;
+let oi = hello;
 
-console.log(hello)
+console.log(oi)
